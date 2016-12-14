@@ -1,0 +1,2 @@
+icegridnode --Ice.Config=config.grid --deploy application.xml   --class文件启动
+icegridnode --Ice.Config=config.grid --deploy application1.xml  --jar启动   

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: file:/E:/workspaces/MyEclipse/ICE1/lib/ice-3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/icebox--3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/icegrid--3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/icelocatordiscovery--3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/freeze--3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/glacier2-3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/icediscovery--3.6.3.jar file:/E:/workspaces/MyEclipse/ICE1/lib/icestorm-.jar
+Main-Class: Server
